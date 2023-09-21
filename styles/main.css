@@ -1,0 +1,13 @@
+@import url("personal-data.css");
+@import url("list.css");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: antiquewhite;
+    font-size: 62.5%;
+    font-size: 1rem;
+}
+.tabela{
+    border-style: solid;
+}
